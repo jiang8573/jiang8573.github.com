@@ -28,7 +28,7 @@ body {
     text-align: center;
 }
 
-/*第一屏样式设置*/
+/*��һ����ʽ����*/
 
 .section1 p {
     margin: 800px auto 0;
@@ -39,12 +39,12 @@ body {
     opacity: .6;
 }
 
-/*第二屏样式设置*/
+/*�ڶ�����ʽ����*/
 h1 {
     display: block;
     margin: 20px auto 0;
     padding-bottom: 5px;
-    width: 200px;
+    width: 300px;;
     border-bottom: 2px solid red;
     color: #333;
     font-size: 40px;
@@ -61,12 +61,12 @@ h1 {
     font-size: 16px;
 }
 
-/*第三屏样式设置*/
+/*��������ʽ����*/
 .section3 {
 
 }
 
-/*第四屏样式设置*/
+/*��������ʽ����*/
 
 .section4 h4 {
     margin-top: 10px;
@@ -95,4 +95,12 @@ h1 {
 .section4 .column p {
     width: 90%;
     margin: 10px auto;
+}
+.slide1 img{
+    margin: 50px 10px 30px 10px;
+    border-radius: 10px;
+}
+.slide2 img{
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
 }
