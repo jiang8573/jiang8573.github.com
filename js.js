@@ -4,7 +4,7 @@
 $(document).ready(function () {
     $('#fullPage').fullpage({
         verticalCentered: false,
-        anchors: ['page1', 'page2', 'page3', 'page4', 'page5',],
+        anchors: ['page1', 'page2', 'page3', 'page4', 'page5','page6'],
         slidesNavigation: true,
         navigation: true,
         navigationTooltips: ['首页', '关于我', '专业技能', '工作经历', '作品展示',  '联系我吧'],
